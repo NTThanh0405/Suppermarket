@@ -29,4 +29,4 @@ Mục tiêu chính:
 - **So sánh Revenue vs Cost** theo mặt hàng (stacked bar)
 - **Phân bổ theo danh mục** (treemap / bar ngang)
 - **Filter tương tác**: Năm, Tháng, Tuần, Danh mục, Tên sản phẩm
-- Tích hợp tính toán **lợi nhuận sau hao hụt** (loss rate từ file annex4.csv)# Suppermarket
+- Tích hợp tính toán **lợi nhuận sau hao hụt** (loss rate từ file annex4.csv)

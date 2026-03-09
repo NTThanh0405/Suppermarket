@@ -3,7 +3,6 @@
 *(Retail / Wholesale Market Data Analysis)*
 
 ![Dashboard Overview](https://via.placeholder.com/1200x600.png?text=Power+BI+Dashboard+Screenshot)  
-*(Thay bằng ảnh chụp màn hình dashboard thực tế của bạn – upload ảnh lên repo và dùng relative path)*
 
 ## Mô tả dự án
 

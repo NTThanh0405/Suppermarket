@@ -2,7 +2,7 @@
 **Phân tích & Trực quan hóa Kinh doanh Rau củ – Nấm – Củ quả Thủy sinh**  
 *(Retail / Wholesale Market Data Analysis)*
 
-![Dashboard Overview](https://github.com/NTThanh0405/Suppermarket/blob/main/images/dashboard.png)
+![image alt](https://github.com/NTThanh0405/Suppermarket/blob/main/images/dashboard.png)
 
 ## Mô tả dự án
 
